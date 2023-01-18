@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ruisilva-bit
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me imruisilca@gmail.com
+- 📫 How to reach me imruisilva@gmail.com
